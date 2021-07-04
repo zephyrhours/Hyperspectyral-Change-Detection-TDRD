@@ -2,7 +2,8 @@
 **Paper: Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection**
 
 <img src="workflow.jpg" alt="Cover" width="70%"/>
-**Fig.1.**  Framework of proposed threee-order Tucker decomposition-based hyperspectral change detection framework
+**Fig.1.**  
+Framework of proposed threee-order Tucker decomposition-based hyperspectral change detection framework
 
 
 # Source
