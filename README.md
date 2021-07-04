@@ -17,11 +17,11 @@ Fig.1. Framework of proposed threee-order Tucker decomposition-based hyperspectr
 If these codes and dataset are helpful for you, please cite this paper:
 
 **BibTex Format:**<br />
-@ARTICLE{9451632,  author={Hou, Zengfu and Li, Wei and Tao, Ran and Du, Qian},<br />  
+@ARTICLE{9451632,  author={Hou, Zengfu and Li, Wei and Tao, Ran and Du, Qian},<br />
 journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},<br />
-title={Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection},   
-year={2021},<br /> 
-volume={14},<br />  
+title={Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection},
+year={2021},<br />
+volume={14},<br />
 number={},<br />
 pages={6194-6205},<br /> 
 doi={10.1109/JSTARS.2021.3088438}}
