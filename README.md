@@ -2,11 +2,12 @@
 Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection
 
 # Source
-[Paper](https://ieeexplore.ieee.org/document/9451632)
+- Paper
+- [https://ieeexplore.ieee.org/document/9451632](https://ieeexplore.ieee.org/document/9451632)
 
 Hermiston dataset:
-[Google Drive](https://drive.google.com/file/d/1-UqfGNsWXY3UnCjyG1WaDOxietuwF2XG/view?usp=sharing)
-[Baidu Disk, Extraction code: 6c2e](https://pan.baidu.com/s/1u7gHjKtIGZXH3ykCX9APxw)
+- [Google Drive](https://drive.google.com/file/d/1-UqfGNsWXY3UnCjyG1WaDOxietuwF2XG/view?usp=sharing)
+- [Baidu Disk, Extraction code: 6c2e](https://pan.baidu.com/s/1u7gHjKtIGZXH3ykCX9APxw)
 
 # Citation
 If these codes and dataset are helpful for you, please cite this paper:
@@ -18,6 +19,5 @@ Plain Text Format:
 Z. Hou, W. Li, R. Tao and Q. Du, "Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 6194-6205, 2021, doi: 10.1109/JSTARS.2021.3088438.
 
 # My Website
-1.[Github Website](https://zephyrhours.github.io/)
-
-2.[Chinese CSDN](https://blog.csdn.net/NBDwo)
+- [Github Website](https://zephyrhours.github.io/)
+- [Chinese CSDN](https://blog.csdn.net/NBDwo)
