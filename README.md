@@ -1,6 +1,6 @@
 # Hyperspectyral-Change-Detection-TDRD
 Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection
-![Framework of proposed threee-order Tucker decomposition-based hyperspectral change detection framework](https://github.com/zephyrhours/Hyperspectyral-Change-Detection-TDRD/blob/main/workflow.jpg)
+![Framework of proposed threee-order Tucker decomposition-based hyperspectral change detection framework](https://github.com/zephyrhours/Hyperspectyral-Change-Detection-TDRD/blob/main/workflow.jpg = 471x315)
 
 # Source
 Paper Download:
