@@ -1,7 +1,7 @@
 # Hyperspectyral-Change-Detection-TDRD
 Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection
-<img src="workflow.jpg" alt="Cover" width="80%"/>
-<img src="workflow.jpg" alt="Cover" width="80%" height="60%"/>
+<img src="workflow.jpg" alt="Cover" width="70%"/>
+
 # Source
 Paper Download:
 - [https://ieeexplore.ieee.org/document/9451632](https://ieeexplore.ieee.org/document/9451632)
