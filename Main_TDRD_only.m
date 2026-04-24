@@ -3,14 +3,12 @@ clc;clear;close all
 
 %% Adding Path
 addpath(genpath('./tensor_toolbox_2.5'));
-%% Loading Images (直接指定Hermiston数据集)
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_Farmland_450x140x155.mat';
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_USA_307x241x154.mat';
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_River_463x241x198.mat';
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_BayArea_600x500x224.mat';
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_SantaBarbara_984x740x224.mat';
-data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_Hermiston_390x200x242.mat';
-% data_path = 'C:\Users\zephy\Documents\Datasets\CDdataset_Yancheng_420x140x154.mat';
+%% Loading Images
+% data_path = 'C:\Users\xxx\Documents\Datasets\CDdataset_Farmland_450x140x155.mat';
+% data_path = 'C:\Users\xxx\Documents\Datasets\CDdataset_USA_307x241x154.mat';
+% data_path = 'C:\Users\xxx\Documents\Datasets\CDdataset_River_463x241x198.mat';
+% data_path = 'C:\Users\xxx\Documents\Datasets\CDdataset_BayArea_600x500x224.mat';
+% data_path = 'C:\Users\xxx\Documents\Datasets\CDdataset_SantaBarbara_984x740x224.mat';
 disp('The dataset is :')
 disp(data_path);
 load(data_path);
@@ -21,7 +19,7 @@ label_value=reshape(hsi_gt,1,[]);
 disp('------------------------- AUC Values -------------------------------')
 
 %% Proposed: TDRD
-para_TDRD = 0.99;
+para_TDRD = 0.99;  % 根据数据集和需要自行修改
 
 PCs_t1=[];
 PCs_t2=[];
