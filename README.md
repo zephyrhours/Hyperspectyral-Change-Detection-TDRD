@@ -47,6 +47,13 @@ Z. Hou, W. Li, R. Tao and Q. Du, "Three-Order Tucker Decomposition and Reconstru
 [2] **Zengfu Hou**, Wei Li, and Qian Du. [A PATCH TENSOR-BASED CHANGE DETECTION FOR HYPERSPECTRAL IMAGES](https://drive.google.com/file/d/1M9cKwbDn8mbvd7VIx1CmWNKYnGnDm4pO/view?usp=sharing) [C]. International Geoscience and Remote Sensing Symposium, 2021, inprint.
 
 
+# Hyperspectral Change Detection Datasets
+Multiple hyperspectral change detection datasets, available for download via Baidu Netdisk.
+
+Link: https://pan.baidu.com/s/1NLdgNbjDC46lpKnVkd_ycg 
+Extraction Code: 41bf 
+
+
 # Website
 - [Github Website](https://zephyrhours.github.io/)
 - [Chinese CSDN](https://blog.csdn.net/NBDwo)
